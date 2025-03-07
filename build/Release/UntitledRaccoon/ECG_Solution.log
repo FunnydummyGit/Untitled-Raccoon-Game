@@ -1,0 +1,175 @@
+﻿  glad.c
+  Main.cpp
+C:\Users\tobia\source\repos\Game\external\include\learnopengl\model_animation.h(180,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tobia\source\repos\Game\external\include\learnopengl\bone.h(45,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\external\include\learnopengl\bone.h(56,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\external\include\learnopengl\bone.h(67,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\external\include\learnopengl\animation.h(31,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\external\include\learnopengl\animation.h(32,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tobia\source\repos\Game\external\include\learnopengl\animation.h(56,44): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\external\include\learnopengl\animation.h(98,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Camera1.h(93,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Camera1.h(94,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\PlayerController.h(116,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\PlayerController.h(117,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Hitbox.h(120,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Hitbox.h(121,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Goal.h(25,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Goal.h(26,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Goal.h(27,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Border.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(63,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(64,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(65,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(66,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(70,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(71,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(72,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(77,24): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(80,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(81,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(82,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(84,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(85,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(86,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(92,24): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(95,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(96,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(97,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(99,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(100,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(101,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(108,25): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(111,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(112,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(113,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(115,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(116,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(117,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(124,24): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(127,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(128,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(129,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(131,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(132,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(133,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(140,24): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(143,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(144,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(145,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(147,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(148,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(149,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(155,24): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(158,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(159,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(160,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(162,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(163,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(164,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(170,24): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(173,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(174,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(175,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(177,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(178,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(179,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(185,24): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(188,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(189,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(190,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(192,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(193,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(194,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(200,24): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(203,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(204,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(205,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(207,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(208,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(209,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(215,24): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(218,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(219,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(220,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(222,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(223,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(224,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(229,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(230,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(231,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(232,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(245,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(246,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(247,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(257,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(258,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(259,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(260,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(268,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(269,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(270,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(274,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(275,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Level.h(276,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(122,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(124,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(125,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(126,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(233,45): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(233,34): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(333,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(341,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(352,110): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(377,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(408,50): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(408,39): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(413,113): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(427,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(435,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(476,51): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(476,40): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(481,114): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(496,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(505,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(583,78): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(583,67): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(596,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(752,90): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(752,64): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(753,88): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(753,62): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(756,87): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(756,63): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(757,91): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(757,67): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(758,95): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(758,71): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(759,102): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(759,78): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(760,92): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(760,68): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(764,87): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(764,63): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(765,83): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(765,59): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(766,84): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(766,60): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(767,93): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(767,69): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(777,62): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(777,46): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(779,82): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(779,66): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(780,81): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(780,65): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(1003,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(1021,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(1057,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(1065,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(1118,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tobia\source\repos\Game\external\include\learnopengl\bone.h(116): warning C4715: 'Bone::GetScaleIndex': not all control paths return a value
+C:\Users\tobia\source\repos\Game\external\include\learnopengl\bone.h(106): warning C4715: 'Bone::GetRotationIndex': not all control paths return a value
+C:\Users\tobia\source\repos\Game\external\include\learnopengl\bone.h(96): warning C4715: 'Bone::GetPositionIndex': not all control paths return a value
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  ECG_Solution.vcxproj -> C:\Users\tobia\source\repos\Game\bin\Release\UntitledRaccoon.exe

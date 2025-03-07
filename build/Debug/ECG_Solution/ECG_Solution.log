@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(77,5): warning : The process cannot access the file 'c:\users\tobia\source\repos\game\bin\debug\assimp-vc142-mtd.dll' because it is being used by another process.
+  glad.c
+  Main.cpp
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Camera1.h(85,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Camera1.h(86,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Camera1.h(108,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Camera1.h(109,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tobia\source\repos\Game\ECG_Solution\src\Main.cpp(60,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  ECG_Solution.vcxproj -> C:\Users\tobia\source\repos\Game\bin\Debug\ECG_Solution.exe
