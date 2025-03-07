@@ -1,0 +1,77 @@
+# Blender MTL File: 'world_globe_new.blend'
+# Material Count: 6
+
+newmtl Ground
+Ns 188.937504
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kn ground_normal.jpg
+map_Kd ground_color.jpg
+map_Ka ground_ao.jpg
+map_Ks ground_bump.jpg
+map_ns ground_specular.jpg
+
+newmtl Material.001
+Ns 125.899163
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Moss.png
+
+newmtl Rock
+Ns 36.284031
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Rock.jpg
+map_Kn groundn.jpg
+map_Ka groundm.jpg
+map_Ks groundb.jpg
+map_ns grounds.jpg
+
+
+newmtl bush1
+Ns 125.899163
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd bush1.png
+
+newmtl moss
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Moss.png
+
+newmtl tree
+Ns 16.627008
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd tree1.png
