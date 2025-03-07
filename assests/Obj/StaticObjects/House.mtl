@@ -1,0 +1,144 @@
+# Blender MTL File: 'world_globe.blend'
+# Material Count: 11
+
+newmtl Material
+Ns 30.779699
+Ka 1.000000 1.000000 1.000000
+Kd 0.227762 0.252943 0.146799
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ground.jpg
+map_Kn groundn.jpg
+map_Ka groundm.jpg
+map_Ks groundb.jpg
+map_ns grounds.jpg
+
+
+newmtl Material.005
+Ns 66.416078
+Ka 1.000000 1.000000 1.000000
+Kd 0.167950 0.027477 0.018867
+Ks 0.153543 0.153543 0.153543
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd tiles_10.jpg
+map_Kn tiles_10n.jpg
+map_Ka tiles_10ao.jpg
+map_Ks tiles_10b.jpg
+map_ns tiles_10s.jpg
+
+newmtl Material.006
+Ns 62.309399
+Ka 1.000000 1.000000 1.000000
+Kd 0.563945 0.570472 0.462694
+Ks 0.192913 0.192913 0.192913
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd wall.jpg
+map_Kn wall_normal.jpg
+map_Ka wall_ao.jpg
+map_Ks wall_b.jpg
+map_ns wall_s.jpg
+
+newmtl Material.007
+Ns 51.908056
+Ka 1.000000 1.000000 1.000000
+Kd 0.076580 0.043231 0.021141
+Ks 0.287402 0.287402 0.287402
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd wood_color_dark.jpg
+map_Kn wood_n.jpg
+map_Ka wood_ao.jpg
+map_Ks wood_b.jpg
+map_ns wood_s.jpg
+
+newmtl Material.008
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.358842 0.030786 0.024046
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd wood_color_yellow.jpg
+map_Kn wood_n.jpg
+map_Ka wood_ao.jpg
+map_Ks wood_b.jpg
+map_ns wood_s.jpg
+
+newmtl Material.009
+Ns 597.744787
+Ka 1.000000 1.000000 1.000000
+Kd 0.447980 0.352082 0.180574
+Ks 0.444882 0.444882 0.444882
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Doornob.png
+
+newmtl Material.010
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.291771 0.545725 0.745404
+Ks 0.696850 0.696850 0.696850
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Window.png
+
+newmtl jup_pad
+Ns 51.908056
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.279528 0.279528 0.279528
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Trampoline.png
+
+newmtl leg-covers
+Ns 389.052310
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.397638 0.397638 0.397638
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd leg_covers.png
+
+newmtl legs
+Ns 449.195197
+Ka 0.815023 0.815023 0.815023
+Kd 0.800000 0.800000 0.800000
+Ks 0.650794 0.650794 0.650794
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd legs.png
+
+newmtl tampoline_border
+Ns 731.553393
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.122047 0.122047 0.122047
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Trampoline_border.png
