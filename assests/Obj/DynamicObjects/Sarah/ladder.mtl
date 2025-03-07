@@ -1,0 +1,18 @@
+# Blender MTL File: 'ladder.blend'
+# Material Count: 1
+
+newmtl Material.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.303197 0.184987 0.073346
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd wood_color_dark_grey.jpg
+map_Kn wood_n.jpg
+map_Ka wood_ao.jpg
+map_Ks wood_b.jpg
+map_ns wood_s.jpg
+
